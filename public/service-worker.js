@@ -3,7 +3,7 @@ const FILES_TO_CACHE = [
   "./css/styles.css",
   "./js/idb.js",
   "./js/index.js",
-  "./icons/icon-72x72.png"
+  "../models/transaction.js"
 ];
 
 const APP_PREFIX = 'Budget-';
