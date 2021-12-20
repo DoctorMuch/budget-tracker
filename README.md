@@ -37,6 +37,11 @@
 * Express
 
 #### Future Development
+* As mentioned in [Usage](#usage), this UI has room for improvement. It is simple but susceptible to errors.
+* Changing buttons to 'Deposit' and 'Withdrawal' and separating them would improve UX.
+   * Different color buttons would also improve UX.
+   * Validating user entry before committing to database.
+* Establishing Delete function for mistaken entries.
 
 #### Contact
 * GitHub: [DoctorMuch](https://github.com/DoctorMuch)
