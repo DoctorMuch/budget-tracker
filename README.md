@@ -12,3 +12,17 @@
 * [Built With](#built-with)
 * [Future Development](#future-development)
 * [Contact](#contact)
+
+### About the Project
+
+### Installation
+
+### Usage
+
+#### Built With
+
+#### Future Development
+
+#### Contact
+* GitHub: [DoctorMuch](https://github.com/DoctorMuch)
+* Email: [David Mueth](mailto:davidmueth@gmail.com)
