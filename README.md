@@ -25,8 +25,16 @@
 * No dependencies need to be installed to see app functionality.
 
 ### Usage
+* This app has a very straightforward interface, though it is not without its limits.
+* ![Budget_Tracker](https://user-images.githubusercontent.com/78443941/146714924-4386b81f-cd41-4d08-9b6e-9cae301b0c6e.gif)
+   * User enters the name of the transaction
+   * Then user enters the amount (value) of the transaction.
+   * Selects '+ Add Funds' or '- Subtract Funds', depending on the transaction type.
 
 #### Built With
+* Mongoose
+* MongoDB Atlas
+* Express
 
 #### Future Development
 
